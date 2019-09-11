@@ -25,17 +25,20 @@ List of the Papers Addressing Vision-based Small Object Detection
 - Improving Tiny Vehicle Detection in Complex Scenes,Wei Liu, Shengcai Liao, Weidong Hu, Xuezhi Liang, and Yan Zhang. 
 - Small Object Detection with Multiscale Features, Int. J. Digit. Multimedia Broadcast 2018, [[paper]](https://pdfs.semanticscholar.org/942e/386250587fc789d807093cc56f0a95f9798c.pdf?_ga=2.175036386.1996274586.1568206454-1908503646.1568206454)
 - A detection method for low-pixel ratio object, Multimedia Tools and Applications 2019, [[paper]](https://link.springer.com/article/10.1007/s11042-018-6653-6) NoPDF
+- Research on Small Size Object Detection in Complex Background, CAC 2018, [[paper]](https://www.semanticscholar.org/paper/Research-on-Small-Size-Object-Detection-in-Complex-Du-Qu/46b1f5b937e114be94d4359c7779372e09ddd122) NoPDF
+- Small Object Detection Using Deep Feature Pyramid Networks, PCM2018, [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-00764-5_51) NoPDF 
+- Multiple receptive fields and small-object-focusing weaklysupervised segmentation network for fast object detection, arXiv 2019, [[paper]](https://arxiv.org/ftp/arxiv/papers/1904/1904.12619.pdf)
+- A Block Object Detection Method Based on Feature Fusion Networks for Autonomous Vehicles, Complexity 2019, [[paper]](http://downloads.hindawi.com/journals/complexity/2019/4042624.pdf)
 
+## 1.2. Connection method of different feature maps <a name="1.2"></a>  
+- Detecting Small Objects Using a Channel-Aware Deconvolutional Network, IEEE 2019, [[paper]](https://ieeexplore.ieee.org/document/8669953) NoPDF
+- A unified multi-scale deep convolutional neural network for fast object detection, ECCV 2016, [[paper]](http://www.cvlibs.net/projects/autonomous_vision_survey/literature/Cai2016ECCV.pdf)
 
-
-
-
-
-
-
-
-
-
+# 2. Contextual Information <a name="2"></a>
+- Inside-Outside Net: Detecting Objects in Context with Skip Pooling and Recurrent Neural Networks, CVPR 2016, [[paper]](http://openaccess.thecvf.com/content_cvpr_2016/papers/Bell_Inside-Outside_Net_Detecting_CVPR_2016_paper.pdf) 
+- VSSA-NET: Vertical Spatial Sequence Attention Network for Traffic Sign Detection, IEEE 2019, [[paper]](https://arxiv.org/pdf/1905.01583.pdf)
+- R-CNN for Small Object Detection, ACCV 2016, [[paper]](https://merl.com/publications/docs/TR2016-144.pdf)
+- Detecting The Objects on The Road Using Modular Lightweight Network, arXiv 2019, [[paper]](https://arxiv.org/ftp/arxiv/papers/1811/1811.06641.pdf)
 
 
 
