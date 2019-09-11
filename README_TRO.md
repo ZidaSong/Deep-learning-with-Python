@@ -39,6 +39,21 @@ List of the Papers Addressing Vision-based Small Object Detection
 - VSSA-NET: Vertical Spatial Sequence Attention Network for Traffic Sign Detection, IEEE 2019, [[paper]](https://arxiv.org/pdf/1905.01583.pdf)
 - R-CNN for Small Object Detection, ACCV 2016, [[paper]](https://merl.com/publications/docs/TR2016-144.pdf)
 - Detecting The Objects on The Road Using Modular Lightweight Network, arXiv 2019, [[paper]](https://arxiv.org/ftp/arxiv/papers/1811/1811.06641.pdf)
+- Feature-fused ssd: fast detection for small objects, ICGIP 2017, [[paper]](https://arxiv.org/ftp/arxiv/papers/1709/1709.05054.pdf)
+- Spatial Memory for Context Reasoning in Object Detection, ICCV 2017, [[paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Chen_Spatial_Memory_for_ICCV_2017_paper.pdf)
+- ContextAware Single-Shot Detector, WACV 2018, [[paper]](https://arxiv.org/pdf/1707.08682.pdf)
+- Detecting Traffic Lights by Single Shot Detection, ITSC 2018, [[paper]](https://arxiv.org/pdf/1805.02523.pdf)
+- SCAN: Semantic Context Aware Network for Accurate Small Object Detection, International Journal of Computational Intelligence Systems 2018, [[paper]](https://www.atlantis-press.com/journals/ijcis/25894607/view) NoPDF
+- SINet: A ScaleInsensitive Convolutional Neural Network for Fast Vehicle Detection, IEEE ITS 2019, [[paper]](https://arxiv.org/pdf/1804.00433.pdf)
+- Robust Obstacle Detection and Recognition for Driver Assistance Systems, IEEE ITS 2019, [[paper]](https://www.researchgate.net/profile/Jiaxu_Leng2/publication/332438373_Robust_Obstacle_Detection_and_Recognition_for_Driver_Assistance_Systems/links/5cbeb092a6fdcc1d49a87438/Robust-Obstacle-Detection-and-Recognition-for-Driver-Assistance-Systems.pdf)
+-  Object Detection in Aerial Images Using Feature Fusion Deep Networks, IEEE Acess 2019, [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8661761)
+- Small Object Detection in Unmanned Aerial Vehicle Images Using Feature Fusion and Scaling-Based Single Shot Detector with Spatial Context Analysis, IEEE TCSVT 2019, [[paper]](https://ieeexplore.ieee.org/abstract/document/8672115) NoPDF
+- 
+
+
+
+
+
 
 
 
