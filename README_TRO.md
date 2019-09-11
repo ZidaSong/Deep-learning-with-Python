@@ -19,9 +19,12 @@ List of the Papers Addressing Vision-based Small Object Detection
     
 # 1. Multi-scales representation <a name="1"></a>
 
-## 1.1. Foreground-Backgorund Class Imbalance <a name="1.1"></a>
-
-
+## 1.1. Multiple feature maps fusion <a name="1.1"></a>  
+- MDSSD, arXiv 2018, [[paper]](https://arxiv.org/pdf/1805.07009.pdf)   
+- MR-CNN, IEEE 2019, [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8701699)
+- Improving Tiny Vehicle Detection in Complex Scenes,Wei Liu, Shengcai Liao, Weidong Hu, Xuezhi Liang, and Yan Zhang. 
+- Small Object Detection with Multiscale Features, Int. J. Digit. Multimedia Broadcast 2018, [[paper]](https://pdfs.semanticscholar.org/942e/386250587fc789d807093cc56f0a95f9798c.pdf?_ga=2.175036386.1996274586.1568206454-1908503646.1568206454)
+- A detection method for low-pixel ratio object, Multimedia Tools and Applications 2019, [[paper]](https://link.springer.com/article/10.1007/s11042-018-6653-6) NoPDF
 
 
 
