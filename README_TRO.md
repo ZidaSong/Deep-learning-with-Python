@@ -2,21 +2,20 @@
 List of the Papers Addressing Vision-based Small Object Detection
 
 # Table of Contents
-1.[Multi-scales representation](#1)
-    1.1 [Multiple feature maps fusion](#1.1)  
-    1.2 [Connection method of different feature maps](#1.2)
+1.[Multi-scales representation](#1)  
+>1.1 [Multiple feature maps fusion](#1.1)  
+1.2 [Connection method of different feature maps](#1.2)
 
+2.[Contextual information](#2)    
 
-2.[Contextual information](#2)
+3.[Super-Resolution](#3)    
 
-3.[Super-Resolution](#3)
+4.[Region-proposal](#4)    
 
-4.[Region-proposal](#4)
-
-5.[Others](#5)
-    5.1 [Traffic road object detection](#5.1)  
-    5.2 [Small object detection in aerial image](#5.2)
-    5.2 [others](#5.3#)
+5.[Others](#5)    
+>5.1 [Traffic road object detection](#5.1)  
+5.2 [Small object detection in aerial image](#5.2)   
+5.3 [others](#5.3#)  
     
 # 1. Multi-scales representation <a name="1"></a>
 
