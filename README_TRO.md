@@ -29,7 +29,7 @@ List of the Papers Addressing Vision-based Small Object Detection
 - Small Object Detection Using Deep Feature Pyramid Networks, PCM2018, [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-00764-5_51) NoPDF 
 - Multiple receptive fields and small-object-focusing weaklysupervised segmentation network for fast object detection, arXiv 2019, [[paper]](https://arxiv.org/ftp/arxiv/papers/1904/1904.12619.pdf)
 - A Block Object Detection Method Based on Feature Fusion Networks for Autonomous Vehicles, Complexity 2019, [[paper]](http://downloads.hindawi.com/journals/complexity/2019/4042624.pdf)
-
+- Small Object Sensitive Segmentation of Urban Street Scene with Spatial Adjacency Between Object Classes, IEEE TIP 2019, [[paper]](https://cse.sc.edu/~songwang/document/tip19b.pdf)
 ## 1.2. Connection method of different feature maps <a name="1.2"></a>  
 - Detecting Small Objects Using a Channel-Aware Deconvolutional Network, IEEE 2019, [[paper]](https://ieeexplore.ieee.org/document/8669953) NoPDF
 - A unified multi-scale deep convolutional neural network for fast object detection, ECCV 2016, [[paper]](http://www.cvlibs.net/projects/autonomous_vision_survey/literature/Cai2016ECCV.pdf)
@@ -87,9 +87,9 @@ List of the Papers Addressing Vision-based Small Object Detection
 ## 5.3. others <a name="5.3"></a> 
 - An Energy and GPU-Computation Efficient Backbone Network for Real-Time Object Detection, CVPR 2019, [[paper]](http://openaccess.thecvf.com/content_CVPRW_2019/papers/CEFRL/Lee_An_Energy_and_GPU-Computation_Efficient_Backbone_Network_for_Real-Time_Object_CVPRW_2019_paper.pdf)
 - Evaluation of Deep Models for Real-Time Small Object Detection, ICONIP 2017, [[paper]](https://link.springer.com/chapter/10.1007/978-3-319-70090-8_53)
-- , , [[paper]]()
-- , , [[paper]]()
-- , , [[paper]]()
+- Small-objectness sensitive detection based on shifted single shot detector, Multimedia Tools and Applications 2019, [[paper]](https://link.springer.com/article/10.1007/s11042-018-6227-7)NoPDF
+- CNN-based small object detection and visualization with feature activation mapping, IEEE IVCNZ 2017, [[paper]](https://ieeexplore.ieee.org/abstract/document/8402455)
+- Real-Time Detecting Method of Marine Small Object with Underwater Robot Vision,  2018 OCEANS - MTS/IEEE Kobe Techno-Oceans (OTO), [[paper]](https://ieeexplore.ieee.org/abstract/document/8558804)
 - , , [[paper]]()
 - , , [[paper]]()
 - , , [[paper]]()
