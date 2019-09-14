@@ -72,12 +72,28 @@ List of the Papers Addressing Vision-based Small Object Detection
 - Knowledge-based recurrent attentive neural network for small object detection, arXiv 2018, [[paper]](https://arxiv.org/pdf/1803.05263.pdf)
 - Efficient convNets for fast traffic sign recognition, IET ITS 2019, [[paper]](https://digital-library.theiet.org/content/journals/10.1049/iet-its.2018.5489) NoPDF
 - Real-time small traffic sign detection with revised faster-RCNN, Multimedia Tools and Applications 2019, [[paper]](https://link.springer.com/article/10.1007/s11042-018-6428-0) NoPDF
-[[paper]](
-[[paper]](
-[[paper]](
-[[paper]](
+- Small-scale Pedestrian Detection Based on Topological Line Localization and Temporal Feature Aggregation, ECCV 2018, [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Tao_Song_Small-scale_Pedestrian_Detection_ECCV_2018_paper.pdf)
+- An Efficient Color Space for Deep-Learning Based Traffic Light Recognition, Journal of Advanced Transportation 2018, [[paper]](http://downloads.hindawi.com/journals/jat/2018/2365414.pdf)
+- CFENet: An Accurate and Efficient Single-Shot Object Detector for Autonomous Driving, arXiv 2018, [[paper]](https://arxiv.org/pdf/1806.09790.pdf)
+- Research on Vehicle Object Detection Method Based on Convolutional Neural Network, IEEE ISCID 2018, [[paper]](https://ieeexplore.ieee.org/abstract/document/8695461) NoPDF
 
+## 5.2. Small object detection in aerial image <a name="5.2"></a> 
+- Clustered Object Detection in Aerial Images, arXiv 2019, [[paper]](https://arxiv.org/pdf/1904.08008.pdf)
+- Pedestrian Detection in Aerial Images Using Vanishing Point Transformation and Deep Learning, IEEE ICIP 2018, [[paper]](https://ieeexplore.ieee.org/abstract/document/8451144) NoPDF
+-  Small Target Detection for Search and Rescue Operations using Distributed Deep Learning and Synthetic Data Generation, arXiv 2019, [[paper]](https://arxiv.org/ftp/arxiv/papers/1904/1904.11619.pdf)
+- Differentiating Objects by Motion: Joint Detection and Tracking of Small Flying Objects, arXiv 2017, [[paper]](https://arxiv.org/pdf/1709.04666.pdf)
+- Combining deep features for object detection at various scales: finding small birds in landscape images, IPSJ Transactions on Computer Vision and Applicationsvolume 2016, [[paper]](https://ipsjcva.springeropen.com/track/pdf/10.1186/s41074-016-0006-z)
 
+## 5.3. others <a name="5.3"></a> 
+- An Energy and GPU-Computation Efficient Backbone Network for Real-Time Object Detection, CVPR 2019, [[paper]](http://openaccess.thecvf.com/content_CVPRW_2019/papers/CEFRL/Lee_An_Energy_and_GPU-Computation_Efficient_Backbone_Network_for_Real-Time_Object_CVPRW_2019_paper.pdf)
+- Evaluation of Deep Models for Real-Time Small Object Detection, ICONIP 2017, [[paper]](https://link.springer.com/chapter/10.1007/978-3-319-70090-8_53)
+- , , [[paper]]()
+- , , [[paper]]()
+- , , [[paper]]()
+- , , [[paper]]()
+- , , [[paper]]()
+- , , [[paper]]()
+- , , [[paper]]()
 
 
 
