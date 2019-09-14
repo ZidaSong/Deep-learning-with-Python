@@ -58,9 +58,24 @@ List of the Papers Addressing Vision-based Small Object Detection
 # 4. Region-Proposal <a name="4"></a>
 - STDnet: A ConvNet for Small Target Detection, BMVC 2018, [[paper]](http://bmvc2018.org/contents/papers/0897.pdf)
 - AttentionMask: Attentive, Efficient Object Proposal Generation Focusing on Small Objects, ACCV 2018, [[paper]](https://arxiv.org/pdf/1811.08728.pdf)
+- A PSO and BFO-Based Learning Strategy Applied to Faster R-CNN for Object Detection in Autonomous Driving, IEEE Access 2019, [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8633817)
+- Improving Small Object Proposals for Company Logo Detection, ICMR 2017, [[paper]](https://arxiv.org/pdf/1704.08881.pdf)
+- Augmentation for small object detection, arXiv 2019, [[paper]](https://arxiv.org/pdf/1902.07296)
+- Detecting Small Signs from Large Images, IEEE IRI 2017, [[paper]](https://arxiv.org/pdf/1706.08574.pdf)
+- Cascade Mask Generation Framework for Fast Small Object Detection, IEEE ICME 2018, [[paper]](https://ieeexplore.ieee.org/abstract/document/8486561) NoPDF
+- Cascaded CNN Method for Far Object Detection in Outdoor Surveillance, IEEE SITIS 2018, [[paper]](https://ieeexplore.ieee.org/abstract/document/8706233) NoPDF
+- SSD-MSN: An Improved Multi-scale Object Detection Network Based on SSD, IEEE Access 2019, [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8736726)
 
+# 5. Others <a name="5"></a>
 
-
+## 5.1. Traffic road object detection <a name="5.1"></a> 
+- Knowledge-based recurrent attentive neural network for small object detection, arXiv 2018, [[paper]](https://arxiv.org/pdf/1803.05263.pdf)
+- Efficient convNets for fast traffic sign recognition, IET ITS 2019, [[paper]](https://digital-library.theiet.org/content/journals/10.1049/iet-its.2018.5489) NoPDF
+- Real-time small traffic sign detection with revised faster-RCNN, Multimedia Tools and Applications 2019, [[paper]](https://link.springer.com/article/10.1007/s11042-018-6428-0) NoPDF
+[[paper]](
+[[paper]](
+[[paper]](
+[[paper]](
 
 
 
