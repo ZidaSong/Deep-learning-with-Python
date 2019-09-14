@@ -93,6 +93,8 @@ List of the Papers Addressing Vision-based Small Object Detection
 - Small-objectness sensitive detection based on shifted single shot detector, Multimedia Tools and Applications 2019, [[paper]](https://link.springer.com/article/10.1007/s11042-018-6227-7)NoPDF
 - CNN-based small object detection and visualization with feature activation mapping, IEEE IVCNZ 2017, [[paper]](https://ieeexplore.ieee.org/abstract/document/8402455)
 - Real-Time Detecting Method of Marine Small Object with Underwater Robot Vision,  2018 OCEANS - MTS/IEEE Kobe Techno-Oceans (OTO), [[paper]](https://ieeexplore.ieee.org/abstract/document/8558804)
+
+58 paper linked in 
 - , , [[paper]]()
 - , , [[paper]]()
 - , , [[paper]]()
