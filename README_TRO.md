@@ -15,7 +15,7 @@ List of the Papers Addressing Vision-based Small Object Detection
 5.[Others](#5)    
 >5.1 [Traffic road object detection](#5.1)  
 5.2 [Small object detection in aerial image](#5.2)   
-5.3 [others](#5.3#)  
+5.3 [others](#5.3)  
     
 # 1. Multi-scales representation <a name="1"></a>
 
