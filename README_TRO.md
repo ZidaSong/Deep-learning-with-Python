@@ -51,9 +51,12 @@ List of the Papers Addressing Vision-based Small Object Detection
 
 # 3. Super-Resolution <a name="3"></a>
 - JCS-Net: Joint Classification and SuperResolution Network for Small-scale Pedestrian Detection in Surveillance Images, IEEE TIFS 2019, [[paper]](https://ieeexplore.ieee.org/abstract/document/8714071) NoPDF
+- Accurate image superresolution using very deep convolutional networks, CVPR 2016, [[paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Kim_Accurate_Image_Super-Resolution_CVPR_2016_paper.pdf)
 - Finding tiny faces in the wild with generative adversarial network, CVPR 2018, [[paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Bai_Finding_Tiny_Faces_CVPR_2018_paper.pdf)
 - Multi-branch fully convolutional network for face detection, arXiv 2017, [[paper]](https://arxiv.org/pdf/1707.06330.pdf)
 - SOD-MTGAN: Small Object Detection via Multi-Task Generative Adversarial Network, ECCV 2018, [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yongqiang_Zhang_SOD-MTGAN_Small_Object_ECCV_2018_paper.pdf)
+-  Improving Small Object Detection, ACPR 2017, [[paper]](http://cdn.iiit.ac.in/cdn/cvit.iiit.ac.in/images/ConferencePapers/2017/Improving-SmallObject-Detection.pdf)
+- Perceptual Generative Adversarial Networks for Small Object Detection, CVPR 2017, [[paper]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Li_Perceptual_Generative_Adversarial_CVPR_2017_paper.pdf)
 
 # 4. Region-Proposal <a name="4"></a>
 - STDnet: A ConvNet for Small Target Detection, BMVC 2018, [[paper]](http://bmvc2018.org/contents/papers/0897.pdf)
