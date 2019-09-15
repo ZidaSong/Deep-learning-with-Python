@@ -2,7 +2,7 @@
 List of the Papers Addressing Vision-based Small Object Detection, links to more than 50 papers are given below.(please cite the paper if you benefit from this repository):
 
 ``````````````````````````````
-### To be finished
+### To be finished, need to change to ours when the survey is done
 K. Oksuz, B. C. Cam, S. Kalkan, E. Akbas, "Imbalance Problems in Object Detection: A Review", (under review), 2019.[[preprint]](https://arxiv.org/abs/1909.00169)
 
 BibTeX entry:
@@ -18,7 +18,7 @@ BibTeX entry:
        eprint = {1909.00169} 
 }
 ```
-### To be finished
+
 ``````````````````````````````
 
 ## How to request addition of a paper
